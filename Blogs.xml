@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<posts>
+  <post>
+    <UserName>junaina</UserName>
+    <title>post1</title>
+    <writing>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis facilisis nulla, eu mattis orci. Nulla fermentum diam ut est faucibus convallis. In sollicitudin vehicula nisl a placerat. Vivamus efficitur nisl augue, ac sagittis quam consectetur eu. In neque dolor, scelerisque eu luctus eu, dictum vel dui. Etiam gravida mollis rhoncus. In finibus ultrices sapien in vulputate. Curabitur bibendum mattis tellus id mattis. Aliquam erat volutpat. Vestibulum lobortis aliquam augue, ut venenatis lorem feugiat ac. Morbi sit amet erat pulvinar, luctus metus vehicula, dapibus mi. Nullam nec diam mattis, ultricies arcu id, luctus lectus.</writing>
+    <pic>Images/598248921.jpg</pic>
+    <Date>March 14, 2018 9:45 am</Date>
+  </post>
+  <post>
+    <UserName>junaina</UserName>
+    <title>post2</title>
+    <writing>Integer tincidunt nisi nec justo molestie eleifend. Duis placerat maximus neque in tempus. Phasellus scelerisque neque ut tellus tempus, vitae sollicitudin turpis convallis. Ut at congue leo. Nulla bibendum efficitur sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris convallis finibus ligula in tincidunt. In varius ac ipsum rhoncus pulvinar.</writing>
+    <pic>Images/53289509.jpg</pic>
+    <Date>March 14, 2018 9:46 am</Date>
+  </post>
+  <post>
+    <UserName>jesira</UserName>
+    <title>post4</title>
+    <writing>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&#13;
+ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</writing>
+    <pic>Images/1873177192.jpg</pic>
+    <Date>March 14, 2018 12:29 pm</Date>
+  </post>
+</posts>
